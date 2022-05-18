@@ -12,7 +12,7 @@ public class ConMgr {
 
 	public static String usrId = null;
 	public static String usrPwd = null;
-
+ 
 	public static synchronized ConMgr getInstance() {
 		if (instance == null) {
 
