@@ -1,0 +1,6 @@
+# .travis.yml
+language: java
+
+branches:
+  only:
+    - main
